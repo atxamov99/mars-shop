@@ -1,0 +1,130 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    
+    padding: 0;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    color: #BCAAAA;
+    transition: 0.5s;
+}
+nav a:hover{
+    color: #EF400F;
+    
+}
+img{
+    width: 30px;
+    height: 20px;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    background-color: #FFFFFF;
+    
+}
+ul{
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ramka{
+    width: 70px;
+    height: 55px;
+}
+.post{
+    border: 3px solid #BCAAAA;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    transition: 0s;
+}
+.post:hover{
+    color: #EF400F;
+    border: 3px solid #EF400F;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.magazin{
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ww{
+    height: 50px;
+    width: 50px;
+}
+.pp{
+    margin-right: 20px;
+
+}
+.ll{
+    width: 290px;
+    height: 35  0px;
+    border: 3px solid #BCAAAA;
+    box-shadow: 3px 3px 5px #BCAAAA;
+    border-radius: 30px;
+    text-align: center;
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+.dd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.raa{
+    width: 200px;
+    height: 200px;
+}
+.tanga{
+    width: 20px;
+    height: 20px;
+}
+.mavjud{
+    color: #000000BF;
+}
+.linya{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.marsss{
+    width: 100px;
+    height: 100px;
+}
+a{
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
